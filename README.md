@@ -12,9 +12,11 @@
 #Black Cat
 
 Global Game Jam 2023
+
 Hackathon project
 
 -Unity Hub
+
 Duration of the creating is 48 hours.
 
 Lugano, Switzerland
